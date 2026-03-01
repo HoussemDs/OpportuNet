@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+*.db
+
+# Node
+node_modules/
+dist-frontend/
+.eslintcache
+.stylelintcache
+*.log
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+.trae/
+
+# Project Specific
+frontend/dist/
+frontend/node_modules/
+backend/__pycache__/
+backend/job_intel.db
