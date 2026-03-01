@@ -1,6 +1,6 @@
 # ⚡ Job Intel AI — The Ultimate Career Command Center
 
-**Job Intel AI** is a cutting-edge, real-time automation system designed for elite **AI Engineers**. It transforms the chaotic noise of job alerts and freelance inquiries into a prioritized, high-signal stream of actionable opportunities, using advanced **LLM-driven intelligence** (Claude 3.5 Sonnet) to detect scams, score opportunities, and draft ready-to-send professional responses.
+**Job Intel AI** is a cutting-edge, real-time automation system designed for elite **Student**. It transforms the chaotic noise of job alerts and freelance inquiries into a prioritized, high-signal stream of actionable opportunities, using advanced **LLM-driven intelligence** (Claude 3.5 Sonnet) to detect scams, score opportunities, and draft ready-to-send professional responses.
 
 ---
 
@@ -38,7 +38,7 @@ graph TD
 
 ---
 
-## 🧠 Core "OMG" Features
+## 🧠 Core Features
 
 This is not just another job tracker. It's an **intelligent agent** working 24/7.
 
@@ -117,6 +117,3 @@ Launch the entire ecosystem (Backend, Frontend, and Worker) in seconds:
 bash start.sh
 ```
 
----
-
-*Designed for the elite AI Engineer. Built for Raef.*
