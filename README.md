@@ -249,7 +249,7 @@ bash start.sh
 | Phase | Agent | Status |
 |---|---|---|
 | ✅ Phase 1 | Single-agent analysis (legacy) | Complete |
-| 🔄 Phase 2 | AXIS + SHIELD + LENS | In Progress |
-| 🔜 Phase 3 | INK + FORGE | Planned |
+| 🔄 Phase 2 | AXIS + SHIELD + LENS | Complete |
+| 🔜 Phase 3 | INK + FORGE | In Progress |
 | 🔜 Phase 4 | ECHO — cross-session learning | Planned |
 | 🔜 Phase 5 | DEAL — Negotiation Agent (counter-offer advisor) | Planned |
